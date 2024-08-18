@@ -1,5 +1,15 @@
 # Solana Summer Fellowship 2024
 
+![](2024-08-18-09-32-58.png)
+
+Excited to introduce the [**Solana Summer Fellowship 2024**](https://summer.superteam.fun/) A hands on **8-week program** for the best developers to learn **building on Solana**. On top of that, each fellow will get a $2000 stipend for the fellowship as well.
+
+From Gaming to NFTs, and DeFi to DAO tooling, weeks will be centred around a theme, and there will be guided quests, exercises, and a Q&A session by an expert in that space, helping fellows not only build but get exposure to open opportunities in the space.
+
+The fellowship ends with a Demo Day, which brings an opportunity to receive grants, funding, or otherwise work with the hottest projects in the Solana ecosystem.
+
+
+
 --------
 
 <table>
@@ -103,7 +113,7 @@
 <table>
 
   <tr>
-    <td><b><a href="https://medium.com/@franck.maussand/securing-solana-programs-avoiding-common-pitfalls-in-rust-and-anchor-development-f3a863b43d34">Solana Native Developpement (Module 4)</a></b></td>
+    <td><b><a href="https://medium.com/@franck.maussand/securing-solana-programs-avoiding-common-pitfalls-in-rust-and-anchor-development-f3a863b43d34">Solana Native Developpement (Module 5)</a></b></td>
   </tr>
   <tr>
     <td><b>2024/08/15 :</b> Write <b>a simple blog, or a README</b> about the issues and how to fix them in the Anchor program below, and submit it in the airtable form shared.
