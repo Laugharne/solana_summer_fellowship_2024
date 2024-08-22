@@ -92,10 +92,10 @@ The fellowship ends with a Demo Day, which brings an opportunity to receive gran
 <table>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/ssf_s4_exo">Solana Native Developpement (Module 4)</a></b></td>
+    <td>🔧 <b><a href="https://github.com/Laugharne/ssf_s4_exo">Solana Native Developpement (Module 4)</a></b></td>
   </tr>
   <tr>
-    <td>🔧 <b>2024/08/10 :</b> Build a <b>native Solana program</b> to create/initialize an account, deposit SOL into it, and withdraw 10% of the deposited SOL at a given time from it.
+    <td><b>2024/08/10 :</b> Build a <b>native Solana program</b> to create/initialize an account, deposit SOL into it, and withdraw 10% of the deposited SOL at a given time from it.
     <hr><b>Topics :</b>
     <i>
       Rust,
@@ -140,10 +140,10 @@ The fellowship ends with a Demo Day, which brings an opportunity to receive gran
 <table>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/ssf_s6_exo">Solana Pay (Module 6)</a></b></td>
+    <td>🛒 <b><a href="https://github.com/Laugharne/ssf_s6_exo">Solana Pay (Module 6)</a></b></td>
   </tr>
   <tr>
-    <td>🛒 <b>2024/08/20 :</b> Build a <b>Point-Of-Sale Web UI</b> for adding products and checking out with Solana Pay. The payment confirmation should be displayed after checkout.
+    <td><b>2024/08/20 :</b> Build a <b>Point-Of-Sale Web UI</b> for adding products and checking out with Solana Pay. The payment confirmation should be displayed after checkout.
     <hr><b>Topics :</b>
     <i>
       Solana/Web3.js,
@@ -160,10 +160,10 @@ The fellowship ends with a Demo Day, which brings an opportunity to receive gran
 <table>
 
   <tr>
-    <td><b><a href="https://github.com/Laugharne/ssf_s7_exo">Solana Mobile (Module 7)</a></b></td>
+    <td>📲 <b><a href="https://github.com/Laugharne/ssf_s7_exo">Solana Mobile (Module 7)</a></b></td>
   </tr>
   <tr>
-    <td>📲 <b>2024/08/25 :</b> Build a <b>???</b> TO DO.
+    <td><b>2024/08/25 :</b> Build a <b>???</b> TO DO.
     <hr><b>Topics :</b>
     <i>
       Solana/Web3.js,
