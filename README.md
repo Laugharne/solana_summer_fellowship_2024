@@ -18,7 +18,7 @@ The fellowship ends with a Demo Day, which brings an opportunity to receive gran
     <td>👛 <b><a href="https://github.com/Laugharne/ssf_s1_exo">Cli Wallet (Module 1)</a></b></td>
   </tr>
   <tr>
-    <td><b>2024/07/23 :</b> Build <b>a cli wallet</b> that generates a keypair and can handle airdrop/sending sol.
+    <td><b>2024/07/23 :</b> Build <b>a cli wallet</b> that generates a keypair and can handle airdrop/sending sol between wallets.
     <hr><b>Topics :</b>
     <i>
         Solana/Web3.js,
@@ -160,16 +160,55 @@ The fellowship ends with a Demo Day, which brings an opportunity to receive gran
 <table>
 
   <tr>
-    <td>📲 <b><a href="https://github.com/Laugharne/ssf_s7_exo">Solana Mobile (Module 7)</a></b></td>
+    <td>📲 <b><a href="https://github.com/Laugharne/ssf_s7_exo">Solana Mobile Dev (Module 7)</a></b></td>
   </tr>
   <tr>
-    <td><b>2024/08/25 :</b> Build a <b>???</b> TO DO.
+    <td><b>2024/08/31 :</b> Build <b>an app that capture an image through the camera, mint an NFT with that image</b>, and adds the current location longitude, latitude in the metadata.
     <hr><b>Topics :</b>
     <i>
-      Solana/Web3.js,
       Solana Mobile,
       React Native,
-      TypeScript
+      Expo,
+      TypeScript,
+      Solana/Web3.js,
+      NFT
+    </i>
+  </td>
+  </tr>
+
+
+</table>
+
+
+<table>
+
+  <tr>
+    <td>🗜️ <b><a href="https://github.com/Laugharne/ssf_s8_exo">Compressed NFTs (Module 8)</a></b></td>
+  </tr>
+  <tr>
+    <td><b>2024/09/04 :</b> Build a <b>???</b> TO DO.
+    <hr><b>Topics :</b>
+    <i>
+      NFT,
+      Compressed NFTs
+    </i>
+  </td>
+  </tr>
+
+
+</table>
+
+
+<table>
+
+  <tr>
+    <td>🪙 <b><a href="https://github.com/Laugharne/ssf_s8_exo">Token Extensions (Module 9)</a></b></td>
+  </tr>
+  <tr>
+    <td><b>2024/09/10 :</b> Build a <b>???</b> TO DO.
+    <hr><b>Topics :</b>
+    <i>
+      Token Extensions
     </i>
   </td>
   </tr>
