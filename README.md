@@ -186,7 +186,7 @@ The fellowship ends with a Demo Day, which brings an opportunity to receive gran
     <td>🗜️ <b><a href="https://github.com/Laugharne/ssf_s8_exo">Compressed NFTs (Module 8)</a></b></td>
   </tr>
   <tr>
-    <td><b>2024/09/04 :</b> Build a <b>???</b> TO DO.
+    <td><b>2024/09/05 :</b> Build a <b>???</b> TO DO.
     <hr><b>Topics :</b>
     <i>
       NFT,
@@ -205,7 +205,7 @@ The fellowship ends with a Demo Day, which brings an opportunity to receive gran
     <td>🪙 <b><a href="https://github.com/Laugharne/ssf_s8_exo">Token Extensions (Module 9)</a></b></td>
   </tr>
   <tr>
-    <td><b>2024/09/10 :</b> Build a <b>???</b> TO DO.
+    <td><b>2024/09/14 :</b> Build a <b>???</b> TO DO.
     <hr><b>Topics :</b>
     <i>
       Token Extensions
