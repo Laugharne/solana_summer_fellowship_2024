@@ -6,8 +6,7 @@ Excited to introduce the [**Solana Summer Fellowship 2024**](https://summer.supe
 
 From Gaming to NFTs, and DeFi to DAO tooling, weeks will be centred around a theme, and there will be guided quests, exercises, and a Q&A session by an expert in that space, helping fellows not only build but get exposure to open opportunities in the space.
 
-The fellowship ends with a Demo Day, which brings an opportunity to receive grants, funding, or otherwise work with the hottest projects in the Solana ecosystem.
-
+The fellowship ends with a **Demo Day**, which brings an opportunity to receive grants, funding, or otherwise work with the hottest projects in the Solana ecosystem.
 
 
 --------
@@ -186,11 +185,14 @@ The fellowship ends with a Demo Day, which brings an opportunity to receive gran
     <td>🗜️ <b><a href="https://github.com/Laugharne/ssf_s8_exo">Compressed NFTs (Module 8)</a></b></td>
   </tr>
   <tr>
-    <td><b>2024/09/05 :</b> Build a <b>???</b> TO DO.
+    <td><b>2024/09/05 :</b> Build Create a <b>cNFT collection</b> of your own <b>profile picture</b> and <b>social links</b> as metadata and airdrop it to other fellows.
     <hr><b>Topics :</b>
     <i>
-      NFT,
-      Compressed NFTs
+      Bun/TypeScript,
+      Merkle Tree,
+      Compressed NFTs,
+      Metaplex,
+      Bubblegum
     </i>
   </td>
   </tr>
@@ -202,13 +204,26 @@ The fellowship ends with a Demo Day, which brings an opportunity to receive gran
 <table>
 
   <tr>
-    <td>🪙 <b><a href="https://github.com/Laugharne/ssf_s8_exo">Token Extensions (Module 9)</a></b></td>
+    <td>🧬 <b><a href="https://github.com/Laugharne/mutatis_mutandis">Mutatis Mutandis</a></b></td>
   </tr>
   <tr>
-    <td><b>2024/09/14 :</b> Build a <b>???</b> TO DO.
+    <td><b>2024/09/27 :</b> <b>Mutatis</b> is a CLI development tool, build in Rust for Rust Anchor program.<br /><br />
+It requires a fully functional Anchor program and its associated tests.
+The program must imperatively pass its own test units successfully.
+The goal is precisely to disrupt the test units in order to be able to detect flaws!<br /><br />
+<b>Mutation testing</b> is a technique used to evaluate and improve the quality of your unit tests.
+It involves introducing small changes (mutations) to your code, and then checking if your tests can detect these changes by failing.<br /><br />
+
+<b>Mutatis</b> is the proof of concept i have presented for the <b>Demo Day</b> of the <b>Solana Summer Fellowship 2024</b>.<br /><br />
     <hr><b>Topics :</b>
     <i>
-      Token Extensions
+      Rust,
+      Cargo,
+      Anchor,
+      AST,
+      TOML file format,
+      Background process control,
+      Anchor tool control
     </i>
   </td>
   </tr>
