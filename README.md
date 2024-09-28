@@ -204,7 +204,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
 <table>
 
   <tr>
-    <td>🧬 <b><a href="https://github.com/Laugharne/mutatis_mutandis">Mutatis Mutandis</a></b></td>
+    <td>🧬 <b><a href="https://github.com/Laugharne/mutatis_mutandis">Mutatis Mutandis (Demo Day)</a></b></td>
   </tr>
   <tr>
     <td><b>2024/09/27 :</b> <b>Mutatis</b> is a CLI development tool, build in Rust for Rust Anchor program.<br /><br />
@@ -213,8 +213,8 @@ The program must imperatively pass its own test units successfully.
 The goal is precisely to disrupt the test units in order to be able to detect flaws!<br /><br />
 <b>Mutation testing</b> is a technique used to evaluate and improve the quality of your unit tests.
 It involves introducing small changes (mutations) to your code, and then checking if your tests can detect these changes by failing.<br /><br />
-
-<b>Mutatis</b> is the proof of concept i have presented for the <b>Demo Day</b> of the <b>Solana Summer Fellowship 2024</b>.<br /><br />
+<hr>
+<b>Mutatis is the proof of concept, I have presented for the Demo Day of the Solana Summer Fellowship 2024</b>.<br /><br />
     <hr><b>Topics :</b>
     <i>
       Rust,
