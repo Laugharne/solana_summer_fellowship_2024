@@ -18,7 +18,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
   </tr>
   <tr>
     <td><b>2024/07/23 :</b> Build <b>a cli wallet</b> that generates a keypair and can handle airdrop/sending sol between wallets.
-    <hr><b>Topics :</b>
+    <hr><b>Topics: </b>
     <i>
         Solana/Web3.js,
         Keypair generation,
@@ -27,6 +27,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
         SOL transfer,
         Bun, Typescript
     </i>
+    <hr><b>Slides:</b> <a href="https://pitch.com/v/introduction-dapp-dev-gu4nb4">#s1 - introduction & dApp dev</a>
     </td>
   </tr>
 
@@ -41,7 +42,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
   </tr>
   <tr>
     <td><b>2024/07/30 :</b> Build a <b>web UI</b> that can handle creation of a token, it's mint, transfer of that token, burning the token supply, and delegation the ata of this token to another public key.
-    <hr><b>Topics :</b>
+    <hr><b>Topics: </b>
     <i>
         Solana/Web3.js,
         Keypair generation,
@@ -69,7 +70,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
   </tr>
   <tr>
     <td><b>2024/08/05 :</b> Build an <b>asset manager’s vault</b>, where customers can deposit SPL tokens of their choice. The vault manager should not be able to withdraw the vault’s funds.
-    <hr><b>Topics :</b>
+    <hr><b>Topics: </b>
     <i>
       Rust,
       Anchor,
@@ -81,6 +82,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
       Token transfer,
       Build & deploy on devnet
       </i>
+    <hr><b>Slides:</b> <a href="https://pitch.com/v/anchor-dudz4a">#s3 - Anchor</a>
   </td>
   </tr>
 
@@ -95,7 +97,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
   </tr>
   <tr>
     <td><b>2024/08/10 :</b> Build a <b>native Solana program</b> to create/initialize an account, deposit SOL into it, and withdraw 10% of the deposited SOL at a given time from it.
-    <hr><b>Topics :</b>
+    <hr><b>Topics: </b>
     <i>
       Rust,
       Cargo,
@@ -104,6 +106,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
       SOL transfer,
       Build native solana program & deploy on devnet
     </i>
+    <hr><b>Slides:</b> <a href="https://pitch.com/v/native-c7gvwj">#s4 - Native</a>
   </td>
   </tr>
 
@@ -118,7 +121,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
   </tr>
   <tr>
     <td><b>2024/08/15 :</b> Write <b>a simple blog, or a README</b> about the issues and how to fix them in the <a href="https://github.com/GitBolt/insecure-program/blob/master/programs/unsecure-program/src/lib.rs">Anchor program below</a>, and submit it.
-    <hr><b>Topics :</b>
+    <hr><b>Topics: </b>
     <i>
       Rust,
       Anchor,
@@ -129,6 +132,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
       Arithmetic errors,
       Account removal
     </i>
+    <hr><b>Slides:</b> <a href="https://pitch.com/v/fellowship-bxwee3">#s5 - Security</a>
   </td>
   </tr>
 
@@ -143,12 +147,13 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
   </tr>
   <tr>
     <td><b>2024/08/20 :</b> Build a <b>Point-Of-Sale Web UI</b> for adding products and checking out with Solana Pay. The payment confirmation should be displayed after checkout.
-    <hr><b>Topics :</b>
+    <hr><b>Topics: </b>
     <i>
       Solana/Web3.js,
       Solana Pay,
       TypeScript
     </i>
+    <hr><b>Slides:</b> <a href="https://pitch.com/v/s6---solana-pay-9vy8nr">#s6 - solana pay</a>
   </td>
   </tr>
 
@@ -163,7 +168,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
   </tr>
   <tr>
     <td><b>2024/08/31 :</b> Build <b>an app that capture an image through the camera, mint an NFT with that image</b>, and adds the current location longitude, latitude in the metadata.
-    <hr><b>Topics :</b>
+    <hr><b>Topics: </b>
     <i>
       Solana Mobile,
       React Native,
@@ -172,6 +177,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
       Solana/Web3.js,
       NFT
     </i>
+    <hr><b>Slides:</b> <a href="https://pitch.com/v/s7---solana-mobile-dev-as8rug">#s7 - solana mobile dev</a>
   </td>
   </tr>
 
@@ -186,7 +192,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
   </tr>
   <tr>
     <td><b>2024/09/05 :</b> Build Create a <b>cNFT collection</b> of your own <b>profile picture</b> and <b>social links</b> as metadata and airdrop it to other fellows.
-    <hr><b>Topics :</b>
+    <hr><b>Topics: </b>
     <i>
       Bun/TypeScript,
       Merkle Tree,
@@ -215,7 +221,7 @@ The goal is precisely to disrupt the test units in order to be able to detect fl
 It involves introducing small changes (mutations) to your code, and then checking if your tests can detect these changes by failing.<br /><br />
 <hr>
 <b>Mutatis is the proof of concept, I have presented for the Demo Day of the Solana Summer Fellowship 2024</b>.<br /><br />
-    <hr><b>Topics :</b>
+    <hr><b>Topics: </b>
     <i>
       Rust,
       Cargo,
