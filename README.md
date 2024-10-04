@@ -14,7 +14,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
 <table>
 
   <tr>
-    <td><font size=+2>👛</font> <b><a href="https://github.com/Laugharne/ssf_s1_exo">Cli Wallet (Module 1)</a></b></td>
+    <td><font size=+2>👛 <b><a href="https://github.com/Laugharne/ssf_s1_exo">Cli Wallet (Module 1)</a></b></td>
   </tr>
   <tr>
     <td><b>2024/07/23 :</b> Build <b>a cli wallet</b> that generates a keypair and can handle airdrop/sending sol between wallets.
@@ -27,7 +27,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
         SOL transfer,
         Bun, Typescript
     </i>
-    <hr><b>Slides:</b> <a href="https://pitch.com/v/introduction-dapp-dev-gu4nb4">#s1 - introduction & dApp dev</a>
+    <!-- <hr><b>Slides:</b> <a href="https://pitch.com/v/introduction-dapp-dev-gu4nb4">#s1 - introduction & dApp dev</a> -->
     </td>
   </tr>
 
@@ -82,7 +82,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
       Token transfer,
       Build & deploy on devnet
       </i>
-    <hr><b>Slides:</b> <a href="https://pitch.com/v/anchor-dudz4a">#s3 - Anchor</a>
+    <!-- <hr><b>Slides:</b> <a href="https://pitch.com/v/anchor-dudz4a">#s3 - Anchor</a> -->
   </td>
   </tr>
 
@@ -106,7 +106,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
       SOL transfer,
       Build native solana program & deploy on devnet
     </i>
-    <hr><b>Slides:</b> <a href="https://pitch.com/v/native-c7gvwj">#s4 - Native</a>
+    <!-- <hr><b>Slides:</b> <a href="https://pitch.com/v/native-c7gvwj">#s4 - Native</a> -->
   </td>
   </tr>
 
@@ -132,7 +132,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
       Arithmetic errors,
       Account removal
     </i>
-    <hr><b>Slides:</b> <a href="https://pitch.com/v/fellowship-bxwee3">#s5 - Security</a>
+    <!-- <hr><b>Slides:</b> <a href="https://pitch.com/v/fellowship-bxwee3">#s5 - Security</a> -->
   </td>
   </tr>
 
@@ -153,7 +153,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
       Solana Pay,
       TypeScript
     </i>
-    <hr><b>Slides:</b> <a href="https://pitch.com/v/s6---solana-pay-9vy8nr">#s6 - solana pay</a>
+    <!-- <hr><b>Slides:</b> <a href="https://pitch.com/v/s6---solana-pay-9vy8nr">#s6 - solana pay</a> -->
   </td>
   </tr>
 
@@ -177,7 +177,7 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
       Solana/Web3.js,
       NFT
     </i>
-    <hr><b>Slides:</b> <a href="https://pitch.com/v/s7---solana-mobile-dev-as8rug">#s7 - solana mobile dev</a>
+    <!-- <hr><b>Slides:</b> <a href="https://pitch.com/v/s7---solana-mobile-dev-as8rug">#s7 - solana mobile dev</a> -->
   </td>
   </tr>
 
