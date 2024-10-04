@@ -175,6 +175,8 @@ The fellowship ends with a **Demo Day**, which brings an opportunity to receive 
       Expo,
       TypeScript,
       Solana/Web3.js,
+      Metaplex,
+      Firebase,
       NFT
     </i>
     <!-- <hr><b>Slides:</b> <a href="https://pitch.com/v/s7---solana-mobile-dev-as8rug">#s7 - solana mobile dev</a> -->
